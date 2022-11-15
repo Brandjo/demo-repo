@@ -10,4 +10,4 @@ Here is more text
 
 ## Local developpment
 
-1. open index.hmtml in browser.
+1. open index.hmml in browser.
